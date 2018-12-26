@@ -19,7 +19,7 @@
     "jest": "^23.3.0",
     "moment": "^2.22.2",
     "mysql": "^2.15.0",
-    "node-filter-async": "0.0.4",
+    "node-filter-async": "1.1.1",
     "nodemon": "^1.17.5"
   }
 }
