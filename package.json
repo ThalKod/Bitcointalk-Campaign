@@ -17,7 +17,7 @@
     "axios": "^0.18.0",
     "forEachAsync": "^3.0.0",
     "jest": "^23.3.0",
-    "moment": "^2.22.2",
+    "moment": "^2.24.0",
     "mysql": "^2.15.0",
     "node-filter-async": "0.0.4",
     "nodemon": "^1.17.5"
